@@ -7,7 +7,7 @@ h3{ letter-spacing: 3px; margin-right: -3px; }
 h6{ font-size: 14px; letter-spacing: 2px; margin-right: -2px; }
 h5{ font-size: 18px; letter-spacing: 3px; margin-right: -3px; }
 
-a{ color: #454545; }
+a{ color: #ff8300; }
 a:hover{ color: #454545; }
 img{ -webkit-backface-visibility: hidden; }
 ul{ margin: 0px; }
@@ -686,6 +686,7 @@ fieldset{ border: none; padding: 0px; margin: 0px; overflow: hidden; }
 
 footer{ padding-top: 0px; }
 footer.dark{ background: #353535; }
+footer.black{ background: #000000; }
 footer.dark h6{ color: #ebebeb; margin-bottom: 66px; font-size: 11px; letter-spacing: 2px;  }
 footer.dark a{ color: #999; }
 footer.dark a i{ color: #ccc; }
