@@ -561,8 +561,8 @@ figure .hover-state .button{top: 0px; bottom: 0px; right: 0px; left: 0px; positi
 figure:hover .hover-state{ opacity: 1; }
 
 figure .title-holder{ background: #151515; padding: 15px 22px 22px 22px; position: relative; cursor: default; }
-figure .title-holder h6{ letter-spacing: 2px; margin-bottom: 4px; }
-figure .title-holder span{ font-size: 12px; text-transform: uppercase; letter-spacing: 1px; color:rgba(246,120,0,1);}
+figure .title-holder h6{ letter-spacing: 2px; margin-bottom: 4px; color:rgba(246,120,0,1);}
+figure .title-holder span{ font-size: 12px; text-transform: uppercase; letter-spacing: 1px; }
 figure .title-holder i{ position: absolute; right: 22px; display: inline-block; margin-top: -10px; font-size: 12px; }
 figure .title-holder i:before{ margin-right: 10px; }
 
@@ -602,7 +602,7 @@ figure.medium-12{ overflow: hidden;  }
 .blog-post-preview figure{ margin-bottom: 22px; }
 
 .blog-post-preview .title-holder{ overflow: hidden; text-transform: uppercase; }
-.blog-post-preview .date, .blog-post .date{ border: 2px solid #454545; padding: 8px 11px 11px 11px; color: #454545; width: 18%; float: left; }
+.blog-post-preview .date, .blog-post .date{ border: 2px solid #454545; padding: 8px 11px 11px 11px; color: #c2c2c2; width: 18%; float: left; }
 .blog-post-preview .day, .blog-post .day{ font-weight: 700; font-size: 22px; display: block; margin-bottom: 3px; }
 .blog-post-preview .month, .blog-post .month{ font-weight: 600; font-size: 16px; display: block; }
 
